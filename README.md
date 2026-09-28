@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @jyrgenson
 - 👀 I’m interested in AI, health
-- 👽 I'm working on projects @Flowen.ai, @nestor.exchange
-- 🌱 I’m currently learning context management for company operating system
+- 👽 I'm working on projects twin & ave
+- 🌱 I’m currently learning AI orchestrating
 - 📫 How to reach me @jyrgenjyrgenson
 - 😄 Pronouns: JJ
-
-My go to AI IDE -- WINDSURF🤘
 
 <!---
 jyrgenson/jyrgenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
